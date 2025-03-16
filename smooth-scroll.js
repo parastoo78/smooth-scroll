@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function () {
     if (!isMobile) {
         luxy.init({
             wrapper: '#luxy',
-            wrapperSpeed: 0.065,
+            wrapperSpeed: 1,
         });
     }
 });
